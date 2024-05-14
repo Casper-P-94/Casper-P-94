@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Casper-P-94
 - 👀 I’m interested in learning everything i can!
-- 🌱 I’m currently learning Java, and front end development.
+- 🌱 I’m currently learning python! Although I have not given up on java.
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I traveled 48 states in my SUV.
 
